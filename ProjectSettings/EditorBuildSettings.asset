@@ -4,7 +4,13 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MetaPresence.unity
+    guid: ff6270019aca19547862c8aa25f4ffae
+  - enabled: 1
+    path: Assets/interactions.unity
+    guid: 0c11c9b7e163e4e7a8e92476c02dec3a
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: d37f10fc9f3f543449dfada8ca3f1b67, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 22640d012ecb82a44aca9a88b8b4861f, type: 2}

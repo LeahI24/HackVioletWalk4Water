@@ -142,8 +142,11 @@ PlayerSettings:
   bundleVersion: 0.1
   preloadedAssets:
   - {fileID: 11400000, guid: 9b0acc6e85184804797c70f49917ff2c, type: 2}
+<<<<<<< Updated upstream
   - {fileID: 11400000, guid: d37f10fc9f3f543449dfada8ca3f1b67, type: 2}
   - {fileID: -4497244097050111041, guid: 22640d012ecb82a44aca9a88b8b4861f, type: 2}
+=======
+>>>>>>> Stashed changes
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -163,7 +166,8 @@ PlayerSettings:
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
+  applicationIdentifier:
+    Android: com.DefaultCompany.HackViolet2024
   buildNumber:
     Standalone: 0
     VisionOS: 0
